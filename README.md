@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @HatemMuhamad
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Software Engineering at the University of Calgary, I will be graduating on May 2022
-- 💞️ I’m looking to collaborate on developing software applications that are driven by great and innovative ideas
-- 📫 You can reach me by email at: hatem.muhamad1@gmail.com, or by phone ☎️ on: +1 8255613413
+Hey there! I'm Hatem Muhamad a recent software engineering grad 👨‍💻 I enjoy bringing ideas to life with code! I am interested in web development, AI & machine learning! I love collaborating on meaningful projects that allign with my interests 💻. Feel free to reach out to me at hatem.muhamad1@gmail.com or +1 825 561 3413
 
 <!---
 HatemMuhamad/HatemMuhamad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
